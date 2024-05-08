@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kf-0
+- 🌱 I’m currently learning c++
+- 📫 How to reach me discord/kf.0
